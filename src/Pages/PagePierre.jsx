@@ -3,6 +3,7 @@ import min1 from '../images/min1.PNG';
 import min2 from '../images/min2.PNG';
 import min3 from '../images/min3.PNG';
 import Nav from '../layouts/nav';
+import Footer from '../layouts/footer';
 
 function PPierre() {
   return (
@@ -23,8 +24,9 @@ function PPierre() {
     </div>
   </div>
 </div>
-
-
+<div>
+  <Footer />
+</div>
     </>
   );
 }

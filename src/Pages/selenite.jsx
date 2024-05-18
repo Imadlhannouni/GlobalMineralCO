@@ -6,6 +6,7 @@ import sell3 from '../images/sell3.png';
 import sell4 from '../images/sell4.png';
 import sell5 from '../images/sell5.png';
 import Nav from '../layouts/nav';
+import Footer from '../layouts/footer';
 
 function Selenite() {
   return (
@@ -38,7 +39,10 @@ function Selenite() {
     </div>
   </div>
 </div>
-
+</div>
+<br />
+<div>
+  <Footer />
 </div>
 
     </>
