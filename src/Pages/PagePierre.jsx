@@ -1,6 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
-import pierre from '../images/pierre.png';
 import min1 from '../images/min1.PNG';
 import min2 from '../images/min2.PNG';
 import min3 from '../images/min3.PNG';

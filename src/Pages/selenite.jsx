@@ -1,6 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
-import pierre from '../images/pierre.png';
 import sell1 from '../images/sell1.png';
 import sell2 from '../images/sel3.PNG';
 import sell6 from '../images/sel4.PNG';
