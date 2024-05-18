@@ -6,7 +6,7 @@ import Selenite from './Pages/selenite';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/GlobalMineralCO">
       <Routes>
         <Route path="/" element={<HomeLayout />} />
         <Route path="/minerals" element={<PPierre />} />
