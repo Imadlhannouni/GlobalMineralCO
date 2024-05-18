@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/GlobalMineralCO/static/css/main.bd3d926b.css",
-    "main.js": "/GlobalMineralCO/static/js/main.6428299f.js",
+    "main.js": "/GlobalMineralCO/static/js/main.819322dc.js",
     "static/js/453.a0e7b005.chunk.js": "/GlobalMineralCO/static/js/453.a0e7b005.chunk.js",
     "static/media/mineral.PNG": "/GlobalMineralCO/static/media/mineral.18d1532ac253453493ea.PNG",
     "static/media/min2.PNG": "/GlobalMineralCO/static/media/min2.9745ba2dd8158aeaf204.PNG",
@@ -18,11 +18,11 @@
     "static/media/logo.png": "/GlobalMineralCO/static/media/logo.3c68d71ff406e2e6f38d.png",
     "index.html": "/GlobalMineralCO/index.html",
     "main.bd3d926b.css.map": "/GlobalMineralCO/static/css/main.bd3d926b.css.map",
-    "main.6428299f.js.map": "/GlobalMineralCO/static/js/main.6428299f.js.map",
+    "main.819322dc.js.map": "/GlobalMineralCO/static/js/main.819322dc.js.map",
     "453.a0e7b005.chunk.js.map": "/GlobalMineralCO/static/js/453.a0e7b005.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bd3d926b.css",
-    "static/js/main.6428299f.js"
+    "static/js/main.819322dc.js"
   ]
 }
