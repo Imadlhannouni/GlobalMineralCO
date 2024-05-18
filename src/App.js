@@ -8,7 +8,7 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/pierres" element={<HomeLayout />} />
+        <Route path="/" element={<HomeLayout />} />
         <Route path="/minerals" element={<PPierre />} />
         <Route path="/selenite" element={<Selenite />} />
       </Routes>
