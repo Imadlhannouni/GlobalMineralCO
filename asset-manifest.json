@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/GlobalMineralCO/static/css/main.bd3d926b.css",
+    "main.js": "/GlobalMineralCO/static/js/main.6428299f.js",
+    "static/js/453.a0e7b005.chunk.js": "/GlobalMineralCO/static/js/453.a0e7b005.chunk.js",
+    "static/media/mineral.PNG": "/GlobalMineralCO/static/media/mineral.18d1532ac253453493ea.PNG",
+    "static/media/min2.PNG": "/GlobalMineralCO/static/media/min2.9745ba2dd8158aeaf204.PNG",
+    "static/media/background.png": "/GlobalMineralCO/static/media/background.5dc8d4c6c067c9bb29a0.png",
+    "static/media/min3.PNG": "/GlobalMineralCO/static/media/min3.a2f44a52eacdee57226e.PNG",
+    "static/media/min1.PNG": "/GlobalMineralCO/static/media/min1.87b81bbb26d4d8281e2c.PNG",
+    "static/media/selenite.PNG": "/GlobalMineralCO/static/media/selenite.e805944724cf5b45acf0.PNG",
+    "static/media/sell1.png": "/GlobalMineralCO/static/media/sell1.247e8191c15e607f6018.png",
+    "static/media/sell3.png": "/GlobalMineralCO/static/media/sell3.5c6275c50837f56833f8.png",
+    "static/media/sell4.png": "/GlobalMineralCO/static/media/sell4.29df262a9fd7b820837b.png",
+    "static/media/sel3.PNG": "/GlobalMineralCO/static/media/sel3.c4257b751343f9bac889.PNG",
+    "static/media/sel4.PNG": "/GlobalMineralCO/static/media/sel4.ca5130014ca56d9c5a15.PNG",
+    "static/media/sell5.png": "/GlobalMineralCO/static/media/sell5.c92ba25b18a919148d64.png",
+    "static/media/logo.png": "/GlobalMineralCO/static/media/logo.3c68d71ff406e2e6f38d.png",
+    "index.html": "/GlobalMineralCO/index.html",
+    "main.bd3d926b.css.map": "/GlobalMineralCO/static/css/main.bd3d926b.css.map",
+    "main.6428299f.js.map": "/GlobalMineralCO/static/js/main.6428299f.js.map",
+    "453.a0e7b005.chunk.js.map": "/GlobalMineralCO/static/js/453.a0e7b005.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd3d926b.css",
+    "static/js/main.6428299f.js"
+  ]
+}
