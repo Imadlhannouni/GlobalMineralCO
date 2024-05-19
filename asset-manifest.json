@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/GlobalMineralCO/static/css/main.ca1163de.css",
-    "main.js": "/GlobalMineralCO/static/js/main.b23a2973.js",
+    "main.css": "/GlobalMineralCO/static/css/main.b5876ed9.css",
+    "main.js": "/GlobalMineralCO/static/js/main.73f6c287.js",
     "reactPlayerYouTube.js": "/GlobalMineralCO/static/js/reactPlayerYouTube.37605cdb.chunk.js",
     "reactPlayerSoundCloud.js": "/GlobalMineralCO/static/js/reactPlayerSoundCloud.46e9eda8.chunk.js",
     "reactPlayerVimeo.js": "/GlobalMineralCO/static/js/reactPlayerVimeo.ec3a6cb9.chunk.js",
@@ -32,9 +32,13 @@
     "static/media/sel4.PNG": "/GlobalMineralCO/static/media/sel4.ca5130014ca56d9c5a15.PNG",
     "static/media/sell5.png": "/GlobalMineralCO/static/media/sell5.c92ba25b18a919148d64.png",
     "static/media/logo.png": "/GlobalMineralCO/static/media/logo.3c68d71ff406e2e6f38d.png",
+    "static/media/slick.svg": "/GlobalMineralCO/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/GlobalMineralCO/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/GlobalMineralCO/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/GlobalMineralCO/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/GlobalMineralCO/index.html",
-    "main.ca1163de.css.map": "/GlobalMineralCO/static/css/main.ca1163de.css.map",
-    "main.b23a2973.js.map": "/GlobalMineralCO/static/js/main.b23a2973.js.map",
+    "main.b5876ed9.css.map": "/GlobalMineralCO/static/css/main.b5876ed9.css.map",
+    "main.73f6c287.js.map": "/GlobalMineralCO/static/js/main.73f6c287.js.map",
     "reactPlayerYouTube.37605cdb.chunk.js.map": "/GlobalMineralCO/static/js/reactPlayerYouTube.37605cdb.chunk.js.map",
     "reactPlayerSoundCloud.46e9eda8.chunk.js.map": "/GlobalMineralCO/static/js/reactPlayerSoundCloud.46e9eda8.chunk.js.map",
     "reactPlayerVimeo.ec3a6cb9.chunk.js.map": "/GlobalMineralCO/static/js/reactPlayerVimeo.ec3a6cb9.chunk.js.map",
@@ -52,7 +56,7 @@
     "453.6d28c5ea.chunk.js.map": "/GlobalMineralCO/static/js/453.6d28c5ea.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca1163de.css",
-    "static/js/main.b23a2973.js"
+    "static/css/main.b5876ed9.css",
+    "static/js/main.73f6c287.js"
   ]
 }
