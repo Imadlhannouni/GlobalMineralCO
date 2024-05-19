@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/GlobalMineralCO/static/css/main.b5876ed9.css",
-    "main.js": "/GlobalMineralCO/static/js/main.73f6c287.js",
+    "main.css": "/GlobalMineralCO/static/css/main.af46dcb8.css",
+    "main.js": "/GlobalMineralCO/static/js/main.d7c87730.js",
     "reactPlayerYouTube.js": "/GlobalMineralCO/static/js/reactPlayerYouTube.37605cdb.chunk.js",
     "reactPlayerSoundCloud.js": "/GlobalMineralCO/static/js/reactPlayerSoundCloud.46e9eda8.chunk.js",
     "reactPlayerVimeo.js": "/GlobalMineralCO/static/js/reactPlayerVimeo.ec3a6cb9.chunk.js",
@@ -37,8 +37,8 @@
     "static/media/slick.ttf": "/GlobalMineralCO/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/GlobalMineralCO/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/GlobalMineralCO/index.html",
-    "main.b5876ed9.css.map": "/GlobalMineralCO/static/css/main.b5876ed9.css.map",
-    "main.73f6c287.js.map": "/GlobalMineralCO/static/js/main.73f6c287.js.map",
+    "main.af46dcb8.css.map": "/GlobalMineralCO/static/css/main.af46dcb8.css.map",
+    "main.d7c87730.js.map": "/GlobalMineralCO/static/js/main.d7c87730.js.map",
     "reactPlayerYouTube.37605cdb.chunk.js.map": "/GlobalMineralCO/static/js/reactPlayerYouTube.37605cdb.chunk.js.map",
     "reactPlayerSoundCloud.46e9eda8.chunk.js.map": "/GlobalMineralCO/static/js/reactPlayerSoundCloud.46e9eda8.chunk.js.map",
     "reactPlayerVimeo.ec3a6cb9.chunk.js.map": "/GlobalMineralCO/static/js/reactPlayerVimeo.ec3a6cb9.chunk.js.map",
@@ -56,7 +56,7 @@
     "453.6d28c5ea.chunk.js.map": "/GlobalMineralCO/static/js/453.6d28c5ea.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b5876ed9.css",
-    "static/js/main.73f6c287.js"
+    "static/css/main.af46dcb8.css",
+    "static/js/main.d7c87730.js"
   ]
 }
