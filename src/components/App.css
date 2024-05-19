@@ -10,7 +10,7 @@
 nav {
   box-shadow: 5px 10px 30px rgba(0, 0, 0, 0.336);
   z-index: 1;
-  background-color: rgba(0, 0, 0, 0.8); /* Ajout de la couleur de fond avec une opacité */
+  background-color: rgba(70, 69, 69, 0.8);
 }
 
 nav ul li a {
