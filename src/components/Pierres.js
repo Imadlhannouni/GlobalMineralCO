@@ -17,7 +17,7 @@ const Pierres = () => {
   };
   
   return (
-    <section id="pierres" className="container mt-5">
+    <section className="container mt-5">
       <h2 className="text-center mb-4">Nos Pierres</h2>
       <div className="row justify-content-center">
         <div className="col-md-4 mb-4">
@@ -41,6 +41,7 @@ const Pierres = () => {
         <div>
           <div className="col-md-12 mb-4">
             <div style={{ width: '100%', height: '500px', position: 'relative' }}>
+            <div className="overlay"></div>
               <ReactPlayer
                 url={require('../videos/background2.mp4')}
                 playing={true}
@@ -49,6 +50,7 @@ const Pierres = () => {
                 width="100%"
                 height="100%"
                 style={{ position: 'absolute', top: 0, left: 0 }}
+                playsinline={true}
               />
             </div>
           </div>
@@ -56,6 +58,7 @@ const Pierres = () => {
         <div>
           <div className="col-md-12 mb-4">
             <div style={{ width: '100%', height: '500px', position: 'relative' }}>
+            <div className="overlay"></div>
               <ReactPlayer
                 url={require('../videos/background.mp4')}
                 playing={true}
@@ -64,6 +67,7 @@ const Pierres = () => {
                 width="100%"
                 height="100%"
                 style={{ position: 'absolute', top: 0, left: 0 }}
+                playsinline={true}
               />
             </div>
           </div>
