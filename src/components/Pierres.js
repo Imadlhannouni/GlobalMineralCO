@@ -26,8 +26,8 @@ const Pierres = () => {
             </div>
           </div>
         </div>
-        <div className="col-md-6 mb-4">
-          <div style={{ width: '130%', height: '500px', position: 'relative' }}>
+        <div className="col-md-6 mb-4 order-md-1 order-2">
+          <div style={{ width: '100%', height: '500px', position: 'relative' }}>
             <ReactPlayer
               url={require('../videos/background2.mp4')}
               playing={true}
@@ -39,8 +39,8 @@ const Pierres = () => {
             />
           </div>
         </div>
-        <div className="col-md-6 mb-4">
-          <div style={{ width: '70%', height: '500px', position: 'relative' }}>
+        <div className="col-md-6 mb-4 order-md-2 order-1">
+          <div style={{ width: '100%', height: '500px', position: 'relative' }}>
             <ReactPlayer
               url={require('../videos/background.mp4')}
               playing={true}
