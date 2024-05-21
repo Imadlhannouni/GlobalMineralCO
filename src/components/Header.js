@@ -7,7 +7,7 @@ const Header = () => {
     <header id="main" className="bg-primary text-white">
       <Nav />
       <div className="name text-center">
-        <h1>Bienvenue chez <span>GlobalMineral CO</span></h1>
+        <h1>Bienvenue chez <span> <br></br>Horizon Minerals</span></h1>
         <div className="header-btns">
           <a href="#pierres" className="btn btn-primary m-2">Nos pierres</a>
           <a href="#contact" className="btn btn-secondary m-2">Nous contacter</a>
