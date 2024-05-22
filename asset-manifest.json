@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/HorizonMinerals/static/css/main.8ce18af6.css",
-    "main.js": "/HorizonMinerals/static/js/main.eae1eb39.js",
+    "main.js": "/HorizonMinerals/static/js/main.f737faa4.js",
     "reactPlayerYouTube.js": "/HorizonMinerals/static/js/reactPlayerYouTube.37605cdb.chunk.js",
     "reactPlayerSoundCloud.js": "/HorizonMinerals/static/js/reactPlayerSoundCloud.46e9eda8.chunk.js",
     "reactPlayerVimeo.js": "/HorizonMinerals/static/js/reactPlayerVimeo.ec3a6cb9.chunk.js",
@@ -38,7 +38,7 @@
     "static/media/slick.woff": "/HorizonMinerals/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/HorizonMinerals/index.html",
     "main.8ce18af6.css.map": "/HorizonMinerals/static/css/main.8ce18af6.css.map",
-    "main.eae1eb39.js.map": "/HorizonMinerals/static/js/main.eae1eb39.js.map",
+    "main.f737faa4.js.map": "/HorizonMinerals/static/js/main.f737faa4.js.map",
     "reactPlayerYouTube.37605cdb.chunk.js.map": "/HorizonMinerals/static/js/reactPlayerYouTube.37605cdb.chunk.js.map",
     "reactPlayerSoundCloud.46e9eda8.chunk.js.map": "/HorizonMinerals/static/js/reactPlayerSoundCloud.46e9eda8.chunk.js.map",
     "reactPlayerVimeo.ec3a6cb9.chunk.js.map": "/HorizonMinerals/static/js/reactPlayerVimeo.ec3a6cb9.chunk.js.map",
@@ -57,6 +57,6 @@
   },
   "entrypoints": [
     "static/css/main.8ce18af6.css",
-    "static/js/main.eae1eb39.js"
+    "static/js/main.f737faa4.js"
   ]
 }
